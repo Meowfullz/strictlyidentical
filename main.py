@@ -1,5 +1,7 @@
 from serialsearch import *
 
+#this is a very goofy way of doing this i know, but it works somehow
+# or at least works for the given lists
 def main1():
 	list1 = ['E', 'B', 'E', 'F', 'A', 'F']
 	list2 = ['E', 'B', 'E', 'F', 'A', 'F']
